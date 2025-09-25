@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 465db27f-fd21-47d5-b690-f389a68b910d
+  name: 'Day 1: Prapela Case Study '
+  pageRef: /pages/day-1-prapela-case-study
+  weight: 10
+- identifier: 1c841101-cf57-4698-8866-0b79f7ea1235
+  name: 'Day 2: Translating Healthcare Research into Healthcare Entrepreneurship'
+  pageRef: /pages/day-2-translating-healthcare-research-into-healthcare-entrepreneurship
+  weight: 20
+- identifier: 21afdad4-16c5-4b8d-9ab6-82a5689ee5bf
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
