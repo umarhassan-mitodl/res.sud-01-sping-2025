@@ -30,12 +30,13 @@
     "website": "ressud-01"
   },
   "course_title": "Substance Use Disorder Ventures Program ",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "[Substance Use Disorder (SUD) Ventures](https://bootcamps.mit.edu/bootcamps/sud-ventures/)\u00a0is an intense and immersive hybrid program, offered through MIT Open Learning, whose aim is to fuel the next generation of innovation in the field of substance use treatment and research.\u00a0This program is designed to support researchers and other innovators in the field of SUD with knowledge and examples of how to bring their innovations to market.\n\n*The program and its research are supported by the National Institute on Drug Abuse of the National Institutes of Health under Award Number UE5DA056914. This award is subject to the Cooperative Agreement Terms and Conditions of Award as set forth in RFA DA-22\u2013020, entitled \u201cGrowing Great Ideas: Research Education Course in Product Development and Entrepreneurship for Life Science Researchers (UE5 Clinical Trial Not Allowed).\u201d*",
   "department_numbers": [],
   "extra_course_numbers": "",
   "primary_course_number": "RES.SUD-01",
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",
